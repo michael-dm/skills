@@ -20,7 +20,7 @@ We also use, and recommend, skills by others: Matt Pocock's [`grill-me`](https:/
 ## Install
 
 ```sh
-git clone https://github.com/michael-dm/skills ~/.agent-skills
+git clone https://github.com/miroir-os/skills ~/.agent-skills
 ln -s ~/.agent-skills/skills/* ~/.claude/skills/
 ```
 
@@ -30,7 +30,7 @@ Then take what fits from `CLAUDE.md` into your own `CLAUDE.md` or `AGENTS.md`.
 
 Seven lessons from building our tools and skills with agents, each with the prompt that worked (3:40).
 
-<a href="https://github.com/michael-dm/skills/releases/download/video/working-with-agents-1080p.mp4"><img src="assets/video.jpg" alt="Watch: building tools & skills for agents" width="100%"></a>
+<a href="https://github.com/miroir-os/skills/releases/download/video/working-with-agents-1080p.mp4"><img src="assets/video.jpg" alt="Watch: building tools & skills for agents" width="100%"></a>
 
 ## License
 
