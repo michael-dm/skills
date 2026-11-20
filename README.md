@@ -11,6 +11,7 @@ Most agent skills are slop: long rulebooks that make your agent worse. These are
 | [`/iterate`](skills/iterate/SKILL.md) | harden a branch with fresh-context reviewers and QA until A− | `/iterate the new export flow` |
 | [`/brief`](skills/brief/SKILL.md) | get caught up on a branch as if you had zero context | `catch me up, can we merge?` |
 | [`/dogfood`](skills/dogfood/SKILL.md) | watch fresh agents use your tool, fix it from their traces | `dogfood the CLI on 3 real tasks` |
+| [`/clean-copy`](skills/clean-copy/SKILL.md) | cut UI text that shouldn't exist, by [Pete Petrash](https://github.com/petekp/claude-code-setup/tree/main/skills/clean-copy) | `/clean-copy the settings page` |
 | [`/commit`](skills/commit/SKILL.md) | split work into clean conventional commits | `commit all` |
 
 [`CLAUDE.md`](CLAUDE.md) holds the design rules they lean on: purity over layering, net-negative diffs, invalid states unrepresentable, commands first.
